@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @kawtheressa
-- 👀 I’m interested in Ruby On Rails 
-- 🌱 I’m currently learning ReactJS
-- 💞️ I’m looking to collaborate on making the world better place.
-- 📫 How to reach me:
+- 👋 Greetings, I'm @kawtheressa.
+- 👀 I specialize in Ruby On Rails development.
+- 🌱 Currently expanding my skills with ReactJS.
+- 💞️ I'm enthusiastic about collaborating on initiatives to make the world a better place.
+- 📫 You can reach out to me through:
   - Linkedin: https://www.linkedin.com/in/kawther-essam-93ba7812a
   - Email: kawther.esam14@gmail.com
 
